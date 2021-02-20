@@ -4,10 +4,10 @@ import { GlobalStyle } from '../src/shared/global';
 
 export const decorators = [
   (Story) => (
-    <div>
+    <>
       <GlobalStyle />
       <Story />
-    <div/>
+    </>
   )
 ];
 
