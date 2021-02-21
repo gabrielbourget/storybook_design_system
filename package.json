@@ -1,11 +1,11 @@
 {
-  "name": "learnstorybook-design-system",
+  "name": "learnstorybook-design-system_gb",
   "version": "0.1.0",
   "private": false,
-  "description": "Learn Storybook design system",
+  "description": "Learn Storybook Design System",
   "main": "dist/index.js",
-  "repository": "https://github.com/chromaui/learnstorybook-design-system.git",
-  "author": "Tom Coleman <tom@thesnail.org>",
+  "repository": "https://github.com/gabrielbourget/storybook_design_system.git",
+  "author": "Gabriel Bourget (gabrielbourget@gmail.com)",
   "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -53,7 +53,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/cli": "^7.11.6",
+    "@babel/cli": "^7.12.17",
     "@babel/core": "^7.11.6",
     "@storybook/addon-a11y": "^6.0.21",
     "@storybook/addon-actions": "^6.0.21",
@@ -62,10 +62,10 @@
     "@storybook/node-logger": "^6.0.21",
     "@storybook/preset-create-react-app": "^3.1.4",
     "@storybook/react": "^6.0.21",
-    "auto": "^9.53.1",
+    "auto": "^9.61.0",
     "babel-loader": "^8.1.0",
     "chromatic": "^5.2.0",
-    "cross-env": "^7.0.2",
+    "cross-env": "^7.0.3",
     "prettier": "^2.1.2",
     "react-is": "^16.13.1"
   }
